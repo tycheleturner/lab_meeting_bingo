@@ -18,7 +18,7 @@ There were two presenters at my lab meeting (me and another person) so I selecte
 tntwords <- c("de novo", "genome", "CNV", "SNP", "indel", "Illumina", "QC", "autism", "PCA", "variants", "father", "exome", "validation", "pedigree", "burden", "regulatory", "SFARI")
 ```
 
-Since, the lab meeting was for a fairly large group I made 9 different cards. Using R's `sample` function I picked a random subset of these words for the card as follows:
+Since, the lab meeting was for a fairly large group I made 9 different cards. Using [R's](https://www.r-project.org/) `sample` function I picked a random subset of these words for the card as follows:
 
 ```
 forcardstnt <- sample(tntwords, 12)
