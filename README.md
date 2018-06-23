@@ -12,7 +12,7 @@ I created the Bingo cards using Microsoft Publisher (lab_meeting_bingo_template.
 
 
 #### Words for the card: 
-There were two presenters at my lab meeting (me and another person) so I selected a set of words from both presenters as well as some generic words in our field. I then strategically placed them around the card so "hopefully" the winner would have to listen to both talks to win. As an example, the words for my talk were:
+There were two presenters at my lab meeting so I selected a set of words from both our presentations, as well as, some generic words in our field. I then strategically placed them around the card so "hopefully" the winner would have to listen to both talks to win. As an example, the words for my talk were:
 
 ```
 tntwords <- c("de novo", "genome", "CNV", "SNP", "indel", "Illumina", "QC", "autism", "PCA", "variants", "father", "exome", "validation", "pedigree", "burden", "regulatory", "SFARI")
@@ -31,5 +31,11 @@ For some bit of fun for the players I got [Crayola Stampers](http://shop.crayola
 
 
 #### Have Fun!
+
+##### Blank template:
 ![](lab_meeting_bingo_template.png)
+
+##### Example card:
+![](example_card.png)
+
 
