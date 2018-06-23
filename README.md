@@ -33,7 +33,7 @@ For some bit of fun for the players I got [Crayola Stampers](http://shop.crayola
 #### Have Fun!
 
 ##### Blank template:
-![](lab_meeting_bingo_template.png)
+![](lab_meeting_bingo_template_for_readme.png)
 
 ##### Example card:
 ![](example_card.png)
